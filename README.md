@@ -52,4 +52,4 @@ Luego se suman y se dividen por 10, su residuo restante nos verifica si es valid
 
 ## Diagrama de flujos
 
- https://github.com/gvillablanca/Producto-Final-codificador/blob/master/Codificador.jpeg
+ https://github.com/gvillablanca/Producto-final-Validador/blob/master/validador.jpeg
